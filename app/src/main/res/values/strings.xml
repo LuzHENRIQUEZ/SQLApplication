@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">SQLApp</string>
+
+    <!-- para el menú -->
+    <string name="action_about">Acerca de</string>
+    <string name="action_help">Ayuda</string>
+    <string name="action_exit">Salir</string>
+    <string name="action_search">Buscar</string>
+    <string name="action_new">Nuevo</string>
+    <string name="action_back">Atrás</string>
+
+    <!-- snack bar -->
+    <string name="snackbar_text">Guardar un cliente nuevo</string>
+
+    <!-- para los formularios -->
+    <!-- new -->
+    <string name="formnew_title">Nuevo Cliente</string>
+    <string name="formnew_name">Escriba su nombre</string>
+    <string name="formnew_gender">Género</string>
+    <string name="formnew_gender_m">Masculino</string>
+    <string name="formnew_gender_f">Femenino</string>
+    <string name="formnew_phone">Teléfono</string>
+    <string name="formnew_address">Dirección</string>
+    <string name="formnew_email">Email</string>
+
+    <!-- edit -->
+    <string name="formedit_title">Editar Cliente</string>
+    <string name="formedit_id">Escriba el id</string>
+
+    <!-- search -->
+    <string name="formsearch_title">Buscar Cliente</string>
+    <string name="formsearch_valor">Escriba el id</string>
+
+    <!-- descipción imágenes -->
+    <string name="description_ic_customer">Imagen cliente</string>
+
+    <!-- para los botones -->
+    <string name="button_save">Guardar</string>
+    <string name="button_edit">Editar</string>
+    <string name="button_delete">Eliminar</string>
+    <string name="button_search">Buscar</string>
+    <string name="button_cancel">Cancelar</string>
+
+    <!-- Mensajes -->
+    <string name="msg_save">Los datos se guardaron.</string>
+    <string name="msg_error">Error: intente nuevamente.</string>
+    <string name="msg_clean">Puede ingresar un nuevo cliente.</string>
+    <string name="msg_data">Debe completar todos los datos.</string>
+    <string name="msg_delete">Los datos fueron eliminados.</string>
+    <string name="msg_search">No se encontraron datos.</string>
+
+    <!-- fab -->
+    <string name="msg_fab">Actualizando los registros.</string>
+
+
+</resources>

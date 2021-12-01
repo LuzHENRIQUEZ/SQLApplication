@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_back"
+        android:icon="@drawable/ic_back"
+        android:orderInCategory="115"
+        android:title="@string/action_back"
+        app:showAsAction="ifRoom|collapseActionView" />
+
+    <item
+        android:id="@+id/action_clean"
+        android:icon="@drawable/ic_clean"
+        android:orderInCategory="120"
+        android:title="@string/action_new"
+        app:showAsAction="always|collapseActionView" />
+</menu>
